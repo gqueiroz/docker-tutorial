@@ -76,7 +76,7 @@ O curso possui material para a parte [teórica](apresentacao.pdf) e para a parte
 Para o curso, baixe o material para o seu computador.  
 Você pode fazer isso usando o git:  
 ```bash
-git clone https://github.com/vconrado/mc9-worcap2018.git
+git clone https://github.com/gqueiroz/docker-tutorial.git
 ``` 
-Ou fazendo download [nesse link](https://codeload.github.com/vconrado/mc9-worcap2018/zip/master).
+Ou fazendo download [nesse link](https://github.com/gqueiroz/docker-tutorial/zip/master).
 
