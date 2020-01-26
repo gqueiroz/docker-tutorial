@@ -1,7 +1,6 @@
 # Docker: introdução à administração de containers
 
-**Evento**: [Curso de Verão em Geoinformática e Geospatial Data Science](https://github.com/gqueiroz/geoinfo) 
-
+**Evento**: [Curso de Verão em Geoinformática e Geospatial Data Science](https://github.com/gqueiroz/geoinfo)  
 **Data**: 27/01/2020  
  
 **Ministrantes:**  
