@@ -1,9 +1,7 @@
-# MC9 - Docker: introdução à administração de containers
+# Docker: introdução à administração de containers
 
- **Evento**: [WORCAP 2018](http://www.inpe.br/worcap/2018/)  
- **Data**: 23/08/2018  
- **Horário**: 15:30 - 17:30  
- **Local**: LIT  
+ **Evento**: [Curso de Verão em Geoinformática e Geospatial Data Science](https://github.com/gqueiroz/geoinfo)
+ **Data**: 27/01/2020  
  
 **Ministrantes:**  
 - [Vitor Conrado Faria Gomes](http://lattes.cnpq.br/2864513791602949), CAP/INPE  
